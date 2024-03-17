@@ -42,7 +42,7 @@ public class TestClass1 {
 	public void Test2() {
 		driver.get("https://www.AutomationTalks.com");
 
-		System.out.println("Test 2 Title is "+driver.getTitle());
+		System.out.println("Test2 Title is "+driver.getTitle());
 
 
 	}
